@@ -1,0 +1,8 @@
+function [X, mu, sigma] = scale (X)
+
+	mu = mean(X);
+	sigma = std(X);
+	
+	X = (X - ones(size(X,1), 1) * mu) ./ (ones(size(X,1),1) * sigma);
+
+end

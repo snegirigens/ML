@@ -1,0 +1,22 @@
+clear ; close all; clc
+
+%% Load Data
+data = load('ex2data2.txt');
+X = data(:, [1, 2]); 
+y = data(:, 3);
+
+% Add Polynomial Features
+X = mapFeature(X(:,1), X(:,2));	% Note that mapFeature also adds a column of ones for us
+
+% Set regularization parameter lambda to 1
+lambda = 1;
+
+% Initialize fitting parameters
+initial_theta = zeros(size(X, 2), 1);
+
+for lambda = [0, 0.5, 1, 5, 10, 50, 100, 150],
+	[accuracy, theta] = myPrediction (X, y, initial_theta, lambda);
+	fprintf ('Lambda = %f; Accuracy = %f; Theta = \n', lambda, accuracy);
+	theta
+	pause;
+end;

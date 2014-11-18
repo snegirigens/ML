@@ -1,0 +1,62 @@
+
+
+On Mon, Sep 24, 2012 at 1:40 AM, John Mitchell <mitchell@class.stanford.edu> wrote:
+> I'm writing to you because you've registered for online courses from
+> Stanford in the past. I wanted to introduce you to two new ones.
+>
+> Like the courses you've seen before, these free courses are taught by
+> Stanford faculty, and include videos with embedded quizzes, standalone
+> problem sets, and discussion forums. These two new courses are available on
+> the new Stanford-built open source platform Class2Go.
+>
+> Explore the Internet in Introduction to Computer Networks
+>
+> Introduction to Computer Networks will explain how the Internet works,
+> ranging from how bits are modulated on wires and over the air to
+> understanding application protocols like BitTorrent and HTTP. You will
+> examine many concepts in current practice and recent developments, such as
+> net neutrality and DNS security. Join Stanford professors Nick McKeown
+> (co-founder of Nicira Networks and winner of ACM Sigcomm "Lifetime
+> Achievement" Award) and Philip Levis (inventor of tinyOS and co-founder of
+> Kumu networks) in exploring the Internet in Introduction to Computer
+> Networks.
+> Begins October 8, 2012. Register at http://networking.class.stanford.edu/
+>
+> Be part of the solutions to global energy demands in Solar Cells, Fuel
+> Cells, and Batteries
+>
+> Solar Cells, Fuel Cells, and Batteries will focus on the operating
+> principles and applications of emerging technological solutions to the
+> energy demands of the world. The course will begin with a discussion of the
+> scale of global energy usage and requirements for possible solutions. You
+> will then explore the physics and chemistry of solar cells, fuel cells, and
+> batteries and the promise of materials research to offer next-generation
+> solutions. Join Stanford professor Bruce Clemens (President of the Materials
+> Research Society) in exploring solutions to global energy needs in Solar
+> Cells, Fuel Cells, and Batteries.
+> Begins October 8, 2012. Register at http://solar.class.stanford.edu/
+>
+> What's different about Stanford courses on Class2Go?
+>
+> Class2Go's videos are easily skimmable and reviewable using our
+> custom-generated thumbnail image index. Class2Go also uses Piazza discussion
+> forums to help you connect to your instructors and colleagues across the
+> world. Learn more about Class2Go (and why we like it so much) at
+> http://class2go.stanford.edu/
+>
+> Find more free Stanford courses at http://online.stanford.edu/courses.
+>
+> Hope to see you online!
+>
+> Sincerely,
+>
+> John Mitchell
+> Vice Provost for Online Learning
+> Stanford University
+>
+>
+> --------
+>
+> This is an automated email from Stanford Online. You may opt-out of
+> receiving future emails like this by clicking this link.
+
